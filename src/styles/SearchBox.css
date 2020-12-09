@@ -1,0 +1,14 @@
+.searchbox button {
+  border: 1px solid #101d42;
+}
+
+.searchbox button:hover {
+  background-color: #101d42;
+  color: #ffffff;
+}
+
+.searchbox .form-inline .form-control {
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+}
